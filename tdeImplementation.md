@@ -19,3 +19,11 @@
 ![enable](https://github.com/tjs6f2/IT2910Final/blob/master/TDE%20Screenshots/enables%20connection.PNG)
 
 ***
+
+5. Test to see if encprytion is working. Encryption_State will be set to 3 if implemented correctly
+![test](https://github.com/tjs6f2/IT2910Final/blob/master/TDE%20Screenshots/key%20and%20cert%20confirmed%20created.PNG)
+
+***
+
+6. Backup the certficate
+![backup](https://github.com/tjs6f2/IT2910Final/blob/master/TDE%20Screenshots/backup%20cert.PNG)
